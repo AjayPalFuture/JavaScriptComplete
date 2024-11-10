@@ -1,0 +1,16 @@
+          JavaScript Execution Context
+
+          when JavaScript file load in browser that  contain in Globel Execution Content 
+               
+
+          Global Execution Context   this keyword
+
+          Memory Phase
+
+          val1=undefine   mean only decleare a value in  memory mean  only allowcated phase
+
+          Execution phase
+            val1=10 assigning and execution phase
+
+
+          
